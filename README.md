@@ -41,6 +41,12 @@ In addition to the previous project
   5. Render the object scaled in the y-axis to a render-to-texture framebuffer to be used as texture for object reflections in the plane.
   6. Draw the plane, the plane fragment shader uses the cube map for the surface environment reflections and the render-to-texture for object reflection. Blend the reflections on the plane using the Alpha channel
 
+
+https://user-images.githubusercontent.com/16291248/211943394-060e212e-1d5c-427f-8183-dd34af08a21f.mp4
+
+
+
+
 How to use your implementation
 
 1. Compile the texture.cpp file, cyCodeBase must be present in the include path
